@@ -20,4 +20,4 @@ def fib(max):
 		a, b = b, a +b
 		n = n + 1
 		
-print fib(6)
+print fib(5)
